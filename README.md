@@ -1,6 +1,6 @@
-### Basic system administration script
+# Basic system administration script
 
-# Mainly in bash, probably other in python, sed, awk. 
+### Mainly in bash, probably other in python, sed, awk. 
 
 ## For now, it includes :
 
